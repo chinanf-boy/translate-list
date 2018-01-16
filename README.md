@@ -1,14 +1,14 @@
 ## translate-list
 
-translate
+<div style='text-align:center'><img src='./translate.PNG' alt='translate list'></div>
 
-翻译列表
+> 翻译列表
 
 ## 用来存放 使用 [translate-mds](https://github.com/chinanf-boy/translate-js) 项目 翻译的 项目
 
 ---
 
-一般大型文件集，不会覆盖也不调整，后缀名 `*.zh.md`
+> 一般大型文件集，不会覆盖也不调整，翻译文件后缀名 `*.zh.md`
 
 ---
 
