@@ -1,6 +1,6 @@
 ## translate-list
 
-<div style='text-align:center'><img src='./translate.PNG' alt='translate list'></div>
+<p align='right'><img style="width:30%;height:100%" src='./translate.PNG' alt='translate list'></p>
 
 > 翻译列表
 
