@@ -1,4 +1,4 @@
-## translate-list
+## translate-mds-test-list
 
 <p align='right'><img style="width:30%;height:100%" src='./translate.PNG' alt='translate list'></p>
 
