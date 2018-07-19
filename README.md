@@ -2,7 +2,7 @@
 
 <p align='right'><img style="width:30%;height:100%" src='./translate.PNG' alt='translate list'></p>
 
-> 翻译列表
+> 测试翻译列表
 
 ## 用来存放 使用 [translate-mds](https://github.com/chinanf-boy/translate-js) 项目 翻译的 项目
 
@@ -10,19 +10,40 @@
 
 > 一般大型文件集，不会覆盖也不调整，翻译文件后缀名 `*.zh.md`
 
----
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [30s代码-30-seconds-of-code-主README.md文件太大，出现Bug, 翻译失败](https://github.com/chinanf-boy/30-seconds-of-code)
 
-- [你不知道的js-You-Dont-Know-Js](https://github.com/chinanf-boy/You-Dont-Know-JS)
+- [js](#js)
+  - [30s代码 {30-seconds-of-code}](#30s%E4%BB%A3%E7%A0%81-30-seconds-of-code)
+  - [你不知道的js {You-Dont-Know-JS}](#%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84js-you-dont-know-js)
+- [book](#book)
+  - [学习 stroybook {learnstorybook.com}](#%E5%AD%A6%E4%B9%A0-stroybook-learnstorybookcom)
+- [other](#other)
+  - [portals 「关于在站点或页面之间启用无缝导航的提议」)](#portals-%E5%85%B3%E4%BA%8E%E5%9C%A8%E7%AB%99%E7%82%B9%E6%88%96%E9%A1%B5%E9%9D%A2%E4%B9%8B%E9%97%B4%E5%90%AF%E7%94%A8%E6%97%A0%E7%BC%9D%E5%AF%BC%E8%88%AA%E7%9A%84%E6%8F%90%E8%AE%AE)
+- [警告](#%E8%AD%A6%E5%91%8A)
+- [欢迎Issue](#%E6%AC%A2%E8%BF%8Eissue)
 
-- [人类的子进程-explain-delegator-py](https://github.com/chinanf-boy/explain-delegator-py)
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-- [运行在后台-explain-background](https://github.com/chinanf-boy/explain-background)
+## js
 
-- [创建你的star列表-explain-starred](https://github.com/chinanf-boy/explain-starred)
+### [30s代码 {30-seconds-of-code}](https://github.com/chinanf-boy/30-seconds-of-code)
 
-- [同时使用`Vue与React`-explain-vuera](https://github.com/chinanf-boy/explain-vuera)
+### [你不知道的js {You-Dont-Know-JS}](https://github.com/chinanf-boy/You-Dont-Know-JS)
+
+## book
+
+### [学习 stroybook {learnstorybook.com}](https://github.com/chinanf-boy/learnstorybook.com-zh)
+
+![learnstorybook.com](./book/learnstorybook.com.png)
+
+## other
+
+### [portals 「关于在站点或页面之间启用无缝导航的提议」](https://github.com/chinanf-boy/portals-zh))
+
+![portals](./other/portals.png)
+
 
 ## 警告
 
