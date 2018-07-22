@@ -36,7 +36,7 @@
 
 ## ts
 
-### [TypeScript-Vue-Starter {Vue 与 ts 结合 官方列子}](https://github.com/chinanf-boy/TypeScript-Vue-Starter·)
+### [TypeScript-Vue-Starter {Vue 与 ts 结合 官方列子}](https://github.com/chinanf-boy/TypeScript-Vue-Starter)
 
 ![TypeScript-Vue-Starter](./ts/TypeScript-Vue-Starter.png)
 
